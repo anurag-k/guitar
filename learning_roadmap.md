@@ -24,8 +24,7 @@ PRS SE Standard 24
         ↓
 Orange Terror Stamp
         ↓
-Harley Benton G112 Vintage
-   └── 1×12" Celestion Vintage 30
+Harley Benton G112 with Celestion V30
 ```
 
 This rig is already sufficient for learning rock and metal. A different
@@ -557,7 +556,7 @@ The ultimate independence from tutorials comes from connecting:
 ## 7. Gear is not the current bottleneck
 
 The existing PRS SE Standard 24 + Boss GT-1 + Orange Terror Stamp +
-Harley Benton G112 Vintage/Celestion V30 is sufficient for this
+Harley Benton G112 with Celestion V30 is sufficient for this
 curriculum.
 
 Future amplifier purchases should be driven by a specific desired sound
