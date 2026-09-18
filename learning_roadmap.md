@@ -35,48 +35,20 @@ preference or upgrade, not as a prerequisite.
 
 ## Curriculum Map
 
-  -------------------------------------------------------------------------------------------------------------------
-  Phase           Rhythm / Technique   Lead                   Theory / Fretboard Ear /          Tone Engineering
-                                                                                 Musicianship   
-  --------------- -------------------- ---------------------- ------------------ -------------- ---------------------
-  **0 ---         Open/barre chords,   Basic bends, vibrato,  Notes, intervals,  Basic rhythm   Signal-chain overview
-  Foundation      power chords,        hammer-ons/pull-offs   major/minor basics recognition    
-  Check**         muting, alternate                                                             
-                  picking                                                                       
+| Phase                      | Rhythm / Technique                                                      | Lead                                       | Theory / Fretboard                                | Ear / Musicianship       | Tone Engineering                   |
+| -------------------------- | ----------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------------- | ------------------------ | ---------------------------------- |
+| **0 — Foundation Check**   | Open/barre chords, power chords, muting, alternate picking              | Basic bends, vibrato, hammer-ons/pull-offs | Notes, intervals, major/minor basics              | Basic rhythm recognition | Signal-chain overview              |
+| **1 — Metal Foundation**   | Power chords, palm muting, downpicking, pedal tones, eighths/sixteenths | Pentatonic scale, basic phrasing           | Intervals, minor scale, keys                      | Find simple riffs        | Gain, OD, distortion               |
+| **2 — Rhythm Vocabulary**  | Gallops, reverse gallops, triplets, syncopation, tremolo picking        | Sequences, slides, legato                  | Diatonic harmony, triads                          | Identify roots/fifths    | EQ and gain staging                |
+| **3 — Intermediate Metal** | String skipping, fast chord changes, Drop D, alternate-picked riffs     | Natural minor, faster alternate picking    | Chord construction, inversions, fretboard mapping | Transcribe riffs         | Gate, compressor, boost            |
+| **4 — Advanced Rhythm**    | Odd meters, polymeters, complex syncopation, changing subdivisions      | Tapping, string skipping, advanced legato  | Modes and modal harmony                           | Transcribe harder riffs  | Pre/post-distortion EQ             |
+| **5 — Advanced Lead**      | Maintain rhythm precision at high BPM                                   | Sweeping, economy picking, arpeggios       | Extended chords, chord-scale relationships        | Transcribe solos         | Preamps and power amps             |
+| **6 — Composition**        | Construct original riffs                                                | Construct solos and melodies               | Functional/modal harmony, borrowed chords         | Analyze songs            | Speakers, cabinets, IRs            |
+| **7 — Production**         | Recording-tight performances                                            | Layered leads and harmonies                | Arrangement and form                              | Critical listening       | Mics, IRs, double tracking, mixing |
 
-  **1 --- Metal   5-chords, palm       Pentatonic scale,      Intervals, minor   Find simple    Gain, OD, distortion
-  Foundation**    muting, downpicking, basic phrasing         scale, keys        riffs          
-                  pedal tones,                                                                  
-                  eighths/sixteenths                                                            
+The tracks should progress concurrently rather than completing one entire column before beginning another.
 
-  **2 --- Rhythm  Gallops, reverse     Sequences, slides,     Diatonic harmony,  Identify       EQ and gain staging
-  Vocabulary**    gallops, triplets,   legato                 triads             roots/fifths   
-                  syncopation, tremolo                                                          
-                  picking                                                                       
-
-  **3 ---         String skipping,     Natural minor, faster  Chord              Transcribe     Gate, compressor,
-  Intermediate    fast chord changes,  alternate picking      construction,      riffs          boost
-  Metal**         Drop D,                                     inversions,                       
-                  alternate-picked                            fretboard mapping                 
-                  riffs                                                                         
-
-  **4 ---         Odd meters,          Tapping, string        Modes and modal    Transcribe     Pre/post-distortion
-  Advanced        polymeters, complex  skipping, advanced     harmony            harder riffs   EQ
-  Rhythm**        syncopation,         legato                                                   
-                  changing                                                                      
-                  subdivisions                                                                  
-
-  **5 ---         Maintain rhythm      Sweeping, economy      Extended chords,   Transcribe     Preamps and power
-  Advanced Lead** precision at high    picking, arpeggios     chord-scale        solos          amps
-                  BPM                                         relationships                     
-
-  **6 ---         Construct original   Construct solos and    Functional/modal   Analyze songs  Speakers, cabinets,
-  Composition**   riffs                melodies               harmony, borrowed                 IRs
-                                                              chords                            
-
-  **7 ---         Recording-tight      Layered leads and      Arrangement and    Critical       Mics, IRs, double
-  Production**    performances         harmonies              form               listening      tracking, mixing
-  -------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
 
 The tracks should progress concurrently rather than completing one
 entire column before beginning another.
