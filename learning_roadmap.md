@@ -46,10 +46,6 @@ preference or upgrade, not as a prerequisite.
 | **6 — Composition**        | Construct original riffs                                                | Construct solos and melodies               | Functional/modal harmony, borrowed chords         | Analyze songs            | Speakers, cabinets, IRs            |
 | **7 — Production**         | Recording-tight performances                                            | Layered leads and harmonies                | Arrangement and form                              | Critical listening       | Mics, IRs, double tracking, mixing |
 
-The tracks should progress concurrently rather than completing one entire column before beginning another.
-
--------------------------------------------------------------------------------------------------------------------
-
 The tracks should progress concurrently rather than completing one
 entire column before beginning another.
 
